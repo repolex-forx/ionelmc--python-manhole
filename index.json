@@ -1,0 +1,11 @@
+{
+  "org": "ionelmc",
+  "repo": "python-manhole",
+  "versions": [
+    {
+      "commit": "175f426fc4794ae9a54f9daba032e3e5631e7db3",
+      "tag": "v1.8.1",
+      "parsed_at": "2026-10-19T12:39:20.337330+00:00"
+    }
+  ]
+}
