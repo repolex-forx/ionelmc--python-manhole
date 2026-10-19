@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/python-manhole/commit/175f426fc4794ae9a54f9daba032e3e5631e7db3",
       "git:hexsha": "175f426fc4794ae9a54f9daba032e3e5631e7db3",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.8.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.8.1",
+      "repolex:parsedAt": "2026-10-19T12:39:20.336782+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ionelmc/python-manhole/commit/35b3468abb6653db00bdcd54e4f2e31c7f1eea01",
